@@ -43,13 +43,9 @@ Migrate the database with seeding:
 ## Usage
 
 The API is available at `http://localhost:3000/api` (You can change the `APP_PORT` in `.env` file).
-''' 
-http://localhost:3000/api/articles 
-'''
 
-'''
-http://localhost:3000/api/articles
-'''
+    http://localhost:3000/api/articles 
+
 ## Contributions
 
 Feedback, suggestions, and improvements are welcome, feel free to contribute.
