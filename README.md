@@ -53,3 +53,8 @@ Feedback, suggestions, and improvements are welcome, feel free to contribute.
 ## License
 
 The MIT License (MIT). Please see [`LICENSE`](./LICENSE) for more information.
+
+## Todo
+
+- [ ] Apply Swagger
+- [ ] Apply Id to UUId
